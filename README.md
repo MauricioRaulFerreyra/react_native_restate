@@ -37,7 +37,7 @@ Built with Expo SDK 52, this app demonstrates modern mobile development practice
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/adrianhajdin/react_native_restate.git
+git clone https://github.com/MauricioRaulFerreyra/react_native_restate.git
 cd react_native_restate
 ```
 
